@@ -1,2 +1,2 @@
-# cheatSheet-Python
-Python 用チートシート
+# CheatSheet
+チートシート
